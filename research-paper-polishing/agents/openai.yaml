@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Polishing"
+  short_description: "Revise and polish CS paper prose for clarity and flow"
+  default_prompt: "Use $research-paper-polishing to revise and polish my paper for clarity, active voice, paragraph structure, and contribution alignment."
