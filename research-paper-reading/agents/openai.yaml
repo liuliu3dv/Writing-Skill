@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Reading"
+  short_description: "Read papers using original figures and released code"
+  default_prompt: "Use $research-paper-reading to explain this paper from its original PDF and cross-check the method against released code."
